@@ -1,0 +1,73 @@
+{
+  "project_info": {
+    "project_number": "580967115884",
+    "firebase_url": "https://hellogcm-a64bb.firebaseio.com",
+    "project_id": "hellogcm-a64bb",
+    "storage_bucket": "hellogcm-a64bb.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:580967115884:android:68a34b42c9590f62",
+        "android_client_info": {
+          "package_name": "com.hendiware.hellogcm"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "580967115884-lvu4smvvqh7l9sh7v4ejlcldr3m44imv.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyC-dDYU5MbF4CFY6yuBS-vS-xIXxU4YKOQ"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 1,
+          "other_platform_oauth_client": []
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:580967115884:android:21336973fd9ff21f",
+        "android_client_info": {
+          "package_name": "com.hendiware.hellofirebase"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "580967115884-lvu4smvvqh7l9sh7v4ejlcldr3m44imv.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyC-dDYU5MbF4CFY6yuBS-vS-xIXxU4YKOQ"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 1,
+          "other_platform_oauth_client": []
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
